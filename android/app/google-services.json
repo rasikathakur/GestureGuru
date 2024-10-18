@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227346529613",
+    "project_id": "gestureguru-3bf71",
+    "storage_bucket": "gestureguru-3bf71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227346529613:android:53fe954ffb921e48d88b04",
+        "android_client_info": {
+          "package_name": "com.example.gesture_guru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3_qZUBNFkpwqkQa_IjAaKi1Fav0vvSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
