@@ -83,7 +83,7 @@ The communication barrier between deaf individuals and those who do not understa
 ![Learning Module](images/learning_module2.jpeg)
 
 ### Real-Time Translation
-![Real-Time Translation](images/real_time_translation.png =300x600)
+![Real-Time Translation](images/real_time_translation.jpeg)
 
 ---
 
