@@ -76,10 +76,11 @@ The communication barrier between deaf individuals and those who do not understa
 
 ## Pictures
 ### Home Screen
-![Home Screen](images/home_screen.png)
+![Home Screen](images/home_screen.jpeg)
 
 ### Learning Module
-![Learning Module](images/learning_module.png)
+![Learning Module](images/learning_module.jpeg)
+![Learning Module](images/learning_module2.jpeg)
 
 ### Real-Time Translation
 ![Real-Time Translation](images/real_time_translation.png)
