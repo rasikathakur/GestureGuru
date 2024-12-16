@@ -1,6 +1,6 @@
 # GestureGuru - Bridging Communication Gaps with Sign Language Learning and Real-Time Translation
 
-![GestureGuru Banner](images/banner.png)
+![GestureGuru Logo](images/gglogo.jpeg)
 
 ## Overview
 **GestureGuru** is an innovative project designed to empower individuals to learn Indian Sign Language (ISL) and facilitate real-time translation of sign language into text. By leveraging modern technology, GestureGuru aims to bridge the communication gap between the deaf community and those unfamiliar with sign language, fostering inclusivity and social integration.
@@ -84,8 +84,6 @@ The communication barrier between deaf individuals and those who do not understa
 ### Real-Time Translation
 ![Real-Time Translation](images/real_time_translation.png)
 
-### Progress Tracker
-![Progress Tracker](images/progress_tracker.png)
 
 ---
 
