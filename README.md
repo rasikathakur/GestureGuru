@@ -57,7 +57,7 @@ The communication barrier between deaf individuals and those who do not understa
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/GestureGuru.git
+   git clone https://github.com/rasikathakur/GestureGuru.git
    ```
 2. Navigate to the project directory:
    ```bash
